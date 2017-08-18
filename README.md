@@ -1,6 +1,7 @@
 # image-classification
 how to run this program:
 1. Install python and tensorflow (Mac) -- can skip this step if you have it
+
 run following command in shell
 
 $ sudo easy_install pip
