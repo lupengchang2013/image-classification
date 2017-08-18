@@ -21,7 +21,9 @@ when running tensorflow app using command: $ source ~/tensorflow/bin/activate an
 
 
 2. running app
+
 clone the repo to local and cd to it's folder, run following command, you will see the magic:
+
 $ python run_fc_model.py
 
 you can check the visual result by running this command: tensorboard --logdir=tf_logs, then just open your browser and go to
