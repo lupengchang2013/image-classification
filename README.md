@@ -3,10 +3,15 @@ how to run this program:
 1. Install python and tensorflow (Mac) -- can skip this step if you have it
 run following command in shell
 $ sudo easy_install pip
+
 $ sudo pip install --upgrade virtualenv
+
 $ virtualenv --system-site-packages
+
 $ source ~/tensorflow/bin/activate
+
 (tensorflow)$ easy_install -U pip
+
 (tensorflow)$ pip install --upgrade tensorflow 
 
 after running above command, python 2.7 and tensorflow shold be installed in your mac. activate your python virtualenv everytime
