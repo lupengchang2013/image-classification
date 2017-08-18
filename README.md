@@ -26,5 +26,6 @@ clone the repo to local and cd to it's folder, run following command, you will s
 
 $ python run_fc_model.py
 
-you can check the visual result by running this command: tensorboard --logdir=tf_logs, then just open your browser and go to
-http://localhost:6006, that's it
+you can check the visual result by running this command: 
+$ tensorboard --logdir=tf_logs, 
+then just open your browser and go to http://localhost:6006, that's it
